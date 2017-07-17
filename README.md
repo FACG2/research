@@ -48,8 +48,11 @@ This will create a directory in your project called coverage where you will fi
 
 **Istanbul gives us four code coverage metrics:**
 **Statements:** How many of the statements in you code are executed.
+
 **Branches:** Conditional statements create branches of code which may not be executed (e.g. if/else). This metric tells you how many of your branches have been executed.
+
 **Functions:** The proportion of the functions you have defined which have been called.
+
 **Lines:** The proportion of lines of code which have been executed.
 
  Done by: @Mahmoud-w, @Qamar, @Hana and @Kefah 
