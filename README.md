@@ -117,7 +117,7 @@ Advantages of the Agile Methodology
 
 5. When the product is intended for an industry with rapidly changing standards.
 
-[](http://ekiy5aot90-flywheel.netdna-ssl.com/wp-content/uploads/2013/07/agile-segue.jpg)
+<center><img src="https://files.gitter.im/aajour/XZrS/thumb/ff.jpg" width="600px" hight="400px")</center>
 ---------------------------
 ### How does the general software development life-cycle differ from the TDD cycle?
 
