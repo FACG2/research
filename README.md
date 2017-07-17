@@ -12,7 +12,7 @@
   ![sdasd](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Waterfall_model.svg/800px-Waterfall_model.svg.png)
 
 2. #### Rapid application development
-  > _**a software development methodology, which favors iterative development and the rapid construction of prototypes instead of large amounts of up-front planning. The "planning" of software developed using RAD is interleaved with writing the software itself. The lack of extensive pre-planning generally allows software to be written much faster, and makes it easier to change requirements.**_
+  > _**a software development methodology, which favors iterative development and the rapid construction of prototypes instead of large amounts of up-front planning. The "planning" of software developed using RAD is interleaved with writing the software itself. The lack of extensive pre-planning generally allows software to be written much faster, and makes it easier to change requirements.**_ 
 
   <center><img  src="https://upload.wikimedia.org/wikipedia/commons/5/5f/RADModel.JPG"/></center>
 
