@@ -22,7 +22,7 @@ In code coverage data gives us an important insight on how effective our tests a
   It uses Istanbul but works for sub processes.
 
 ### How do they improve code test?
-#####Installation
+##### Installation
 ```
 npm install istanbul –save-dev
 ```
@@ -52,4 +52,4 @@ This will create a directory in your project called coverage where you will fi
 **Functions:** The proportion of the functions you have defined which have been called.
 **Lines:** The proportion of lines of code which have been executed.
 
-:simple_smile: Done by: @Mahmoud-w, @Qamar, @Hana'a and @Kefah :simple_smile:
+ Done by: @Mahmoud-w, @Qamar, @Hana'a and @Kefah 
