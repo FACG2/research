@@ -52,4 +52,4 @@ This will create a directory in your project called coverage where you will fi
 **Functions:** The proportion of the functions you have defined which have been called.
 **Lines:** The proportion of lines of code which have been executed.
 
- Done by: @Mahmoud-w, @Qamar, @Hana'a and @Kefah 
+ Done by: @Mahmoud-w, @Qamar, @Hana and @Kefah 
