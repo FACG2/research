@@ -47,6 +47,7 @@ npm run coverage
 This will create a directory in your project called coverage where you will find the generated coverage reports.
 
 **Istanbul gives us four code coverage metrics:**
+
 **Statements:** How many of the statements in you code are executed.
 
 **Branches:** Conditional statements create branches of code which may not be executed (e.g. if/else). This metric tells you how many of your branches have been executed.
