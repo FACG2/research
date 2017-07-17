@@ -27,25 +27,6 @@
 6. #### Unified Process (UP)
 
 
----------------------
-### How does the general software development life-cycle differ from the TDD cycle?
-
- **SDLC** |  **TDD**
------------- | -------------
- <img src="https://www.tutorialspoint.com/sdlc/images/sdlc_stages.jpg" width="500px" hight="700px"/>| <img src="https://user-images.githubusercontent.com/9408641/27683709-e1c5e8c0-5cbe-11e7-99a4-215a5dae63f1.png" width="500px" hight="700px"/>
- ### SDLC phases:
- 1. **Planning and Requirement Analysis**
- 2. **Defining Requirements**
- 3. **Designing the Product Architecture**
- 4. **Building or Developing the Product**
- 5. **Testing the Product**
- 6. **Deployment in the Market and Maintenance**
-
-### TDD phases:
-1. **Write a falling test**
-2. **Make the test pass**
-3. **Code refactoring**
-
 -----------------------
 
 [](http://ekiy5aot90-flywheel.netdna-ssl.com/wp-content/uploads/2013/07/segue-blog-waterfall-vs-agile-which-is-right-development-methodology-for-your-project.png)
@@ -137,6 +118,26 @@ Advantages of the Agile Methodology
 5. When the product is intended for an industry with rapidly changing standards.
 
 [](http://ekiy5aot90-flywheel.netdna-ssl.com/wp-content/uploads/2013/07/agile-segue.jpg)
+---------------------------
+### How does the general software development life-cycle differ from the TDD cycle?
+
+ **SDLC** |  **TDD**
+------------ | -------------
+ <img src="https://www.tutorialspoint.com/sdlc/images/sdlc_stages.jpg" width="500px" hight="700px"/>| <img src="https://user-images.githubusercontent.com/9408641/27683709-e1c5e8c0-5cbe-11e7-99a4-215a5dae63f1.png" width="500px" hight="700px"/>
+ ### SDLC phases:
+ 1. **Planning and Requirement Analysis**
+ 2. **Defining Requirements**
+ 3. **Designing the Product Architecture**
+ 4. **Building or Developing the Product**
+ 5. **Testing the Product**
+ 6. **Deployment in the Market and Maintenance**
+
+### TDD phases:
+1. **Write a falling test**
+2. **Make the test pass**
+3. **Code refactoring**
+
+
 ----------------------
  ##  <center> Q & A  </center>
 
