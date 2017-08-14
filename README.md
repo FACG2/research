@@ -9,7 +9,6 @@
 
 * Create a visual representation of a mock schema for a database about Founders & Coders, using as many different kinds of relationship as you can. Explain the logic behind it.
 ___
-1)
 ### what is schema ?
 Schema refers to the organization of data, or schema is the structure of the database that defines the objects in the database.
 
@@ -23,7 +22,6 @@ In a relational database, the schema defines the **tables**, **fields**, **relat
 * serve as a namespace, that is preventing name crash between objects from different schemas.
 
 ___
-2)
 
 A **Primary Key** is a special relational database table column (or combination of columns) used to uniquely identify all table records.
 
@@ -48,6 +46,7 @@ CREATE TABLE Persons (
 
 **Persons Table**
 
+
 PersonID | FirstName | LastName
 ------------ | -------------
 1 | Mahmoud | Al-Madhoun
@@ -55,10 +54,12 @@ PersonID | FirstName | LastName
 
 **Orders Table**
 
+
 OrderID | OrderNumber | PersonID
 ------------ | -------------
 1 | 3212 | 1
 2 | 3213 | 2
+
 
 >The "PersonID" column in the "Persons" table is the PRIMARY KEY in the "Persons" table.
 
@@ -70,10 +71,7 @@ OrderID | OrderNumber | PersonID
 
 
 ___
-3)
 
-
-Mahmoud AlMadhoun @mrm7moud ١٥:٢٦
 
 ### F & C Database Schema
 A visual representation of a mock schema for a database about Founders & Coders.
