@@ -48,7 +48,7 @@ CREATE TABLE Persons (
 
 
 PersonID | FirstName | LastName
------------- | -------------
+------------ | ------------- |-------------
 1 | Mahmoud | Al-Madhoun
 2 | Abdallah | Al-Halees
 
@@ -56,7 +56,7 @@ PersonID | FirstName | LastName
 
 
 OrderID | OrderNumber | PersonID
------------- | -------------
+------------ | ------------- | -------------
 1 | 3212 | 1
 2 | 3213 | 2
 
