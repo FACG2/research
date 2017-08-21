@@ -3,7 +3,7 @@
 A man-in-the-middle attack is a type of cyberattack where a malicious actor inserts him/herself into a conversation between two parties, impersonates both parties and gains access to information that the two parties were trying to send to each other. A man-in-the-middle attack allows a malicious actor to intercept, send and receive data meant for someone else, or not meant to be sent at all, without either outside party knowing until it is too late.
 
 #### MITM attack example:
-![](https://www.veracode.com/sites/default/files/styles/media_responsive_widest/public/mitm-flow_0.gif?itok=SH6tndH8)
+![](https://www.veracode.com/sites/default/files/styles/media_responsive_widest/public/mitm-steps.gif?itok=jARsU2dF)
 
 #### How to prevent MITM:
 
