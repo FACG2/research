@@ -1,7 +1,7 @@
 # Middleware
 
 ## What are express middlewares?
-are functions that have access to the **request object (req)**, **the response object (res)**, and the next middleware function in the application’s request-response cycle. The next middleware function is commonly denoted by a variable named next.
+middlewares are functions that have access to the **request object (req)**, **the response object (res)**, and the next middleware function in the application’s request-response cycle. The next middleware function is commonly denoted by a variable named next.
 ## What functionality do they provide?
 Middleware functions can perform the following tasks:
 * Execute any code.
@@ -12,7 +12,7 @@ Middleware functions can perform the following tasks:
 
 If the current middleware function does not end the request-response cycle, it must call **next()** to pass control to the next middleware function. Otherwise, the request will be left hanging.
 
-## What are some examples of useful express middleware and how do you use them
+## What are some examples of useful express middleware and how do you use them?
 
 ### [Morgan](https://www.npmjs.com/package/morgan)
 we are going to setup our application to report and generate logs files about the user’s requests. To do this let’s use the module morgan which is a middleware for generating request’s logs in the server.
